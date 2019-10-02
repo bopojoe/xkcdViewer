@@ -12,6 +12,19 @@
 		B25AB16E2344EDB2001614EF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B25AB16C2344EDB2001614EF /* Main.storyboard */; };
 		B25AB1702344EDB3001614EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B25AB16F2344EDB3001614EF /* Assets.xcassets */; };
 		B25AB1732344EDB3001614EF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B25AB1712344EDB3001614EF /* LaunchScreen.storyboard */; };
+		B25AB18A2344F249001614EF /* XKCD_0664_Academia_vs_Business.png in Resources */ = {isa = PBXBuildFile; fileRef = B25AB17D2344F249001614EF /* XKCD_0664_Academia_vs_Business.png */; };
+		B25AB18B2344F249001614EF /* XKCD_0728_iPad.png in Resources */ = {isa = PBXBuildFile; fileRef = B25AB17E2344F249001614EF /* XKCD_0728_iPad.png */; };
+		B25AB18C2344F249001614EF /* XKCD_0744_Walkthrough.png in Resources */ = {isa = PBXBuildFile; fileRef = B25AB17F2344F249001614EF /* XKCD_0744_Walkthrough.png */; };
+		B25AB18D2344F249001614EF /* XKCD_0782_Desecration.png in Resources */ = {isa = PBXBuildFile; fileRef = B25AB1802344F249001614EF /* XKCD_0782_Desecration.png */; };
+		B25AB18E2344F249001614EF /* XKCD_0837_Coupon_Code.png in Resources */ = {isa = PBXBuildFile; fileRef = B25AB1812344F249001614EF /* XKCD_0837_Coupon_Code.png */; };
+		B25AB18F2344F249001614EF /* XKCD_0881_Probability.png in Resources */ = {isa = PBXBuildFile; fileRef = B25AB1822344F249001614EF /* XKCD_0881_Probability.png */; };
+		B25AB1902344F249001614EF /* XKCD_1096_Clinically_Studied_Ingredient.png in Resources */ = {isa = PBXBuildFile; fileRef = B25AB1832344F249001614EF /* XKCD_1096_Clinically_Studied_Ingredient.png */; };
+		B25AB1912344F249001614EF /* XKCD_1333_First_Date.png in Resources */ = {isa = PBXBuildFile; fileRef = B25AB1842344F249001614EF /* XKCD_1333_First_Date.png */; };
+		B25AB1922344F249001614EF /* XKCD_1356_Orbital_Mechanics.png in Resources */ = {isa = PBXBuildFile; fileRef = B25AB1852344F249001614EF /* XKCD_1356_Orbital_Mechanics.png */; };
+		B25AB1932344F249001614EF /* XKCD_1417_Seven.png in Resources */ = {isa = PBXBuildFile; fileRef = B25AB1862344F249001614EF /* XKCD_1417_Seven.png */; };
+		B25AB1942344F249001614EF /* XKCD_1425_Tasks.png in Resources */ = {isa = PBXBuildFile; fileRef = B25AB1872344F249001614EF /* XKCD_1425_Tasks.png */; };
+		B25AB1952344F249001614EF /* XKCD_1464_Santa.png in Resources */ = {isa = PBXBuildFile; fileRef = B25AB1882344F249001614EF /* XKCD_1464_Santa.png */; };
+		B25AB1962344F249001614EF /* XKCD_1823_Hottest_Editors.png in Resources */ = {isa = PBXBuildFile; fileRef = B25AB1892344F249001614EF /* XKCD_1823_Hottest_Editors.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +35,19 @@
 		B25AB16F2344EDB3001614EF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B25AB1722344EDB3001614EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B25AB1742344EDB3001614EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B25AB17D2344F249001614EF /* XKCD_0664_Academia_vs_Business.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = XKCD_0664_Academia_vs_Business.png; sourceTree = "<group>"; };
+		B25AB17E2344F249001614EF /* XKCD_0728_iPad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = XKCD_0728_iPad.png; sourceTree = "<group>"; };
+		B25AB17F2344F249001614EF /* XKCD_0744_Walkthrough.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = XKCD_0744_Walkthrough.png; sourceTree = "<group>"; };
+		B25AB1802344F249001614EF /* XKCD_0782_Desecration.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = XKCD_0782_Desecration.png; sourceTree = "<group>"; };
+		B25AB1812344F249001614EF /* XKCD_0837_Coupon_Code.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = XKCD_0837_Coupon_Code.png; sourceTree = "<group>"; };
+		B25AB1822344F249001614EF /* XKCD_0881_Probability.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = XKCD_0881_Probability.png; sourceTree = "<group>"; };
+		B25AB1832344F249001614EF /* XKCD_1096_Clinically_Studied_Ingredient.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = XKCD_1096_Clinically_Studied_Ingredient.png; sourceTree = "<group>"; };
+		B25AB1842344F249001614EF /* XKCD_1333_First_Date.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = XKCD_1333_First_Date.png; sourceTree = "<group>"; };
+		B25AB1852344F249001614EF /* XKCD_1356_Orbital_Mechanics.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = XKCD_1356_Orbital_Mechanics.png; sourceTree = "<group>"; };
+		B25AB1862344F249001614EF /* XKCD_1417_Seven.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = XKCD_1417_Seven.png; sourceTree = "<group>"; };
+		B25AB1872344F249001614EF /* XKCD_1425_Tasks.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = XKCD_1425_Tasks.png; sourceTree = "<group>"; };
+		B25AB1882344F249001614EF /* XKCD_1464_Santa.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = XKCD_1464_Santa.png; sourceTree = "<group>"; };
+		B25AB1892344F249001614EF /* XKCD_1823_Hottest_Editors.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = XKCD_1823_Hottest_Editors.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,8 +86,30 @@
 				B25AB16F2344EDB3001614EF /* Assets.xcassets */,
 				B25AB1712344EDB3001614EF /* LaunchScreen.storyboard */,
 				B25AB1742344EDB3001614EF /* Info.plist */,
+				B25AB17C2344F249001614EF /* Content */,
 			);
 			path = "XKCD Viewer";
+			sourceTree = "<group>";
+		};
+		B25AB17C2344F249001614EF /* Content */ = {
+			isa = PBXGroup;
+			children = (
+				B25AB17D2344F249001614EF /* XKCD_0664_Academia_vs_Business.png */,
+				B25AB17E2344F249001614EF /* XKCD_0728_iPad.png */,
+				B25AB17F2344F249001614EF /* XKCD_0744_Walkthrough.png */,
+				B25AB1802344F249001614EF /* XKCD_0782_Desecration.png */,
+				B25AB1812344F249001614EF /* XKCD_0837_Coupon_Code.png */,
+				B25AB1822344F249001614EF /* XKCD_0881_Probability.png */,
+				B25AB1832344F249001614EF /* XKCD_1096_Clinically_Studied_Ingredient.png */,
+				B25AB1842344F249001614EF /* XKCD_1333_First_Date.png */,
+				B25AB1852344F249001614EF /* XKCD_1356_Orbital_Mechanics.png */,
+				B25AB1862344F249001614EF /* XKCD_1417_Seven.png */,
+				B25AB1872344F249001614EF /* XKCD_1425_Tasks.png */,
+				B25AB1882344F249001614EF /* XKCD_1464_Santa.png */,
+				B25AB1892344F249001614EF /* XKCD_1823_Hottest_Editors.png */,
+			);
+			name = Content;
+			path = ../../../../Downloads/Content;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -122,8 +170,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B25AB1922344F249001614EF /* XKCD_1356_Orbital_Mechanics.png in Resources */,
 				B25AB1732344EDB3001614EF /* LaunchScreen.storyboard in Resources */,
+				B25AB18D2344F249001614EF /* XKCD_0782_Desecration.png in Resources */,
+				B25AB1952344F249001614EF /* XKCD_1464_Santa.png in Resources */,
+				B25AB1912344F249001614EF /* XKCD_1333_First_Date.png in Resources */,
+				B25AB18F2344F249001614EF /* XKCD_0881_Probability.png in Resources */,
+				B25AB1932344F249001614EF /* XKCD_1417_Seven.png in Resources */,
+				B25AB18C2344F249001614EF /* XKCD_0744_Walkthrough.png in Resources */,
+				B25AB18A2344F249001614EF /* XKCD_0664_Academia_vs_Business.png in Resources */,
+				B25AB18E2344F249001614EF /* XKCD_0837_Coupon_Code.png in Resources */,
+				B25AB1962344F249001614EF /* XKCD_1823_Hottest_Editors.png in Resources */,
 				B25AB1702344EDB3001614EF /* Assets.xcassets in Resources */,
+				B25AB1902344F249001614EF /* XKCD_1096_Clinically_Studied_Ingredient.png in Resources */,
+				B25AB18B2344F249001614EF /* XKCD_0728_iPad.png in Resources */,
+				B25AB1942344F249001614EF /* XKCD_1425_Tasks.png in Resources */,
 				B25AB16E2344EDB2001614EF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
